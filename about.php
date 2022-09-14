@@ -15,7 +15,7 @@
       <div class="max-h-96 md:h-screen">
         <img class="w-screen h-screen object-cover object-top" src="img/koelkast.jpg" alt="">
       </div>
-      <div class="flex bg-gray-100 p-10">
+      <div class="flex bg-gray-300 p-10">
         <div class="mb-auto mt-auto max-w-lg">
           <h1 class="text-3xl uppercase">Bob Vance</h1>
           <p class="font-semibold mb-5">Koelkast verkoper</p>
