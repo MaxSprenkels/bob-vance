@@ -94,8 +94,8 @@
                 <ul>
                   <li>4,5 ster beoordeling</li>
                   <li>Webshop Keurmerk</li>
-                  <li></li>
-                  <li>Domain included</li>
+                  <li>Snelle levering</li>
+                  <li>Geld terug</li>
                 </ul>
               </div>
             </div>
@@ -105,9 +105,8 @@
             class="rounded-lg text-center overflow-hidden w-full transform hover:shadow-2xl hover:scale-105 transition duration-200 ease-in"
           >
             <div id="title" class="w-full py-5 border-b border-gray-800">
-              <h2 class="font-bold text-3xl text-white">Enterprise</h2>
+            <h2 class="font-bold text-3xl text-white">Klantvriendelijk</h2>
               <h3 class="font-normal text-indigo-500 text-xl mt-2">
-                $19<sup>,99</sup>/month
               </h3>
             </div>
             <div id="content" class="">
@@ -127,15 +126,15 @@
                   />
                 </svg>
                 <p class="text-gray-500 text-sm pt-2">
-                  Perfect large scale team
+                  Altijd het beste voor de klant
                 </p>
               </div>
               <div id="contain" class="leading-8 mb-10 text-lg font-light">
                 <ul>
-                  <li>10 hours of support</li>
-                  <li>10GB of storage</li>
-                  <li>100GB bandwith</li>
-                  <li>Domain included</li>
+                  <li>Respect</li>
+                  <li>Vriendlijk</li>
+                  <li>Eerlijk</li>
+                  <li>ALtijd beschikbaar</li>
                 </ul>
               </div>
             </div>
