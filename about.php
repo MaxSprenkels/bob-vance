@@ -22,7 +22,9 @@
           <p>Bob Vance verkoopt koelkasten en heeft al meer dan 10 jaar ervaring met het verkopen van koelkasten in California, Los Angeles.<br><br>
           Zijn bedrijf heeft verschillende diensten: Het verkopen van gebruikte koelkasten, Verzekeren van nieuwe koelkasten en reperaties.
             </p>
+            <form action="contact.php">
           <button class="bg-black rounded-md py-3 px-7 mt-6 text-white">Email Me</button>
+        </form>
         </div>
       </div>
     </div>
