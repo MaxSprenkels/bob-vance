@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Why</title>
+    <title>Bob Vance</title>
 </head>
 <body>
     <?php include 'navbar.html'; ?>
@@ -15,9 +15,6 @@
       <div>
         <div id="title" class="text-center my-10">
           <h1 class="font-bold text-4xl text-white">Waarom Bob Vance?</h1>
-          <p class="text-light text-gray-500 text-xl">
-            Hier een paar redenen
-          </p>
         </div>
         <div
           class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 justify-evenly gap-10 pt-10"
